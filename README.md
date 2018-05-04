@@ -5,7 +5,7 @@ Open terminal on root folder
 type yarn install
 then type yarn start
 
-open browser on localhost://3000
+Open browser on localhost://3000
 
 Thanks,
 Yoav
