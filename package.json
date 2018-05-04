@@ -10,7 +10,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "git add . && git commit -m 'updates' && git push - u origin master",
+    "deploy": "git add . && git commit -m 'updates' && git push -u origin master",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
