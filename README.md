@@ -3,7 +3,7 @@ To run the app please clone the repo (git clone https://github.com/yoavgecht/tre
 
 Open terminal on root folder
 type yarn install
-type yarn start
+then type yarn start
 
 open browser on localhost://3000
 
